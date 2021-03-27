@@ -39,6 +39,7 @@ yarn install
 
 # Inicie a Fake API
  A Fake API fica em nuvem então não tem necessidade de iniciação
+ para mais informações acesse https://miragejs.com/
 
 # Rode a aplicação
 yarn start
