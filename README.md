@@ -1,18 +1,10 @@
-
-![cover-reactjs](https://user-images.githubusercontent.com/53949076/112015759-dd14e500-8b0a-11eb-9900-d2b4deb79f68.png)
-
-
 <h3 align="center">
   Dtmoney
 </h3>
 
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
-  </a>
-  
   <a href="https://www.linkedin.com/in/rafael-santos-98047b178/">
-    <img alt="Solved by Rafael Santos" src="https://img.shields.io/badge/solved%20by-Rafael%20Santos-%2306b656?style=flat-square">
+    <img alt="Solved by Rafael Santos" src="https://img.shields.io/badge/%20by-Rafael%20Santos-%2306b656?style=flat-square">
   </a>
 </p>
 
