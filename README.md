@@ -27,6 +27,10 @@ Nessa aplicação, foi usado conceitos de componentização, consumo de API, cr
 
 <br>
 
+![simplescreenrecorder-2021-03-27](https://user-images.githubusercontent.com/53949076/112737979-a2151600-8f3d-11eb-9c77-64fd4e4193ec.gif)
+
+
+
 ## :wrench: Instalação e uso
 
 ```bash
